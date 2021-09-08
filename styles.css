@@ -74,3 +74,20 @@ body {
 .italic {
     font-style: italic;
 }
+
+.text-panel h1 {
+    font-weight: 700;
+    font-size: 26px;
+}
+
+.text-panel h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Cabin', sans-serif;
+}
+
+.text-panel p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Cabin', sans-serif;
+}
