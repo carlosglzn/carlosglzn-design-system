@@ -59,6 +59,10 @@ body {
     font-family: 'Cabin', sans-serif;
 }
 
+.azeret {
+    font-family: 'Azeret Mono', monospace;
+}
+
 .regular {
     font-style: normal;
 }
