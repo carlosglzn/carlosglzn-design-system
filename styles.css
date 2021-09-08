@@ -1,0 +1,37 @@
+.colors {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.color-container {
+    width: 100%;
+}
+
+.color-panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.yankees-blue {
+    background-color: #1a2c42;
+    color: #fff;
+}
+
+.inter-orange {
+    background-color: #be2f29;
+    color: #fff;
+}
+
+.max-yellow {
+    background-color: #ecaf44;
+    color: black;
+}
+
+.chin-black {
+    background-color: #0c1115;
+    color: #fff;
+}
